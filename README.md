@@ -1,8 +1,8 @@
-# 🕸️ Wasm Runtimes Matrix
+# 🕸️ Wasm Runtime Comparison
 
 > **Comparison matrix of all WebAssembly runtimes. Don't just list them, compare them.**
 
-Build Status: [![Matrix Check](https://img.shields.io/badge/Matrix-Updated-green)](https://github.com/your-username/wasm-runtimes-matrix) 
+Build Status: [![Matrix Check](https://img.shields.io/badge/Matrix-Updated-green)](https://github.com/wasmruntime-io/wasm-runtime-comparison) 
 License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ⚡ The Matrix
