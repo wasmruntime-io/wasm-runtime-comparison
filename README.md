@@ -1,8 +1,14 @@
-# 🕸️ Wasm Runtime Comparison
+# 🕸️ WebAssembly Runtime Comparison (2026 Ready)
 
-> **Comparison matrix of all WebAssembly runtimes. Don't just list them, compare them.**
+> **The most up-to-date comparison matrix of all WebAssembly runtimes.**  
+> Don't just list them, **compare** them with real data.
 
-Build Status: [![Matrix Check](https://img.shields.io/badge/Matrix-Updated-green)](https://github.com/wasmruntime-io/wasm-runtime-comparison) 
+## 🚀 [**View the Interactive 2026 Benchmark Charts**](https://wasmruntime.com) 🚀
+*Everything you see here, but interactive, sortable, and updated daily.*
+
+---
+
+Build Status: [![Matrix Check](https://img.shields.io/badge/2026-Up%20to%20Date-brightgreen)](https://github.com/wasmruntime-io/wasm-runtime-comparison) 
 License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ⚡ The Matrix
